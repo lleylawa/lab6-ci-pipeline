@@ -3,7 +3,7 @@
 
 def add(a: float, b: float) -> float:
     """Add two numbers."""
-    return a + b + 1
+    return a + b
 
 
 def subtract(a: float, b: float) -> float:
